@@ -20,6 +20,20 @@ You’ll start by editing this README file to learn how to edit a file in Bitbuc
 ---
 
 ## Create a file
+create .env file in root directory of this project
+
+DB_HOST=localhost
+DB_DATABASE=testing
+DB_USER=root
+DB_PASSWORD=
+JWT_SECRET_KEY=testingSecretKey
+PORT=3000
+
+MAIL_DRIVER=smtp
+MAIL_HOST=smtp.gmail.com
+MAIL_PORT=587
+MAIL_USERNAME=XXXXXXXXXXXXX@gmail.com
+MAIL_PASSWORD=XXXXXXXXX
 
 Next, you’ll add a new file to this repository.
 
