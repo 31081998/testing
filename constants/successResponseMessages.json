@@ -1,0 +1,18 @@
+{
+    "2000": "Login Successful!",
+    "2001": "Admin Users",
+    "2002": "User Register Successful!",
+    "2003": "Validation Failed, missing parameters",
+    "2004": "Successfully updated admin user",
+    "2005": "No users found",
+    "2006": "Otp send successfully",
+    "2007": "Otp expired",
+    "2008": "Incorrect Otp",
+    "2009": "Otp Verified successfully",
+    "2010": "User with this email does not exist",
+    "2011": "Password change successfully",
+    "2012": "Profile Found",
+    "2013": "Metadata Found",
+    "2014": "Document Updated Successfully",
+    "2015": "Something went wrong"
+}

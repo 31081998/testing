@@ -1,0 +1,14 @@
+{
+    "1000": "A user with this email address doesn't exist!",
+    "1001": "Incorrect Password!",
+    "1002": "No admins found",
+    "1003": "No users found",
+    "1004": "Failed to create new user",
+    "1005": "Failed to ban user",
+    "1006": "Failed to create user",
+    "1007": "Failed to create Collector",
+    "1009": "email already exist!",
+    "1010": "Email Already Exist and your account still in moderation!",
+    "1014": "Something Went wrong please try again!",
+    "1016": "Please forget your password"
+}
